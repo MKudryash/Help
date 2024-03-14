@@ -1,0 +1,3 @@
+Student{Id = 1, Surname = 'test1', Name = 'test2', Group = '1', Department = '1', Discipline = '1', Mark = 1, TeacherName = '2'}
+Student{Id = 2, Surname = 'test2', Name = 'test2', Group = '2', Department = '2', Discipline = '2', Mark = 2, TeacherName = '5'}
+Student{Id = 1, Surname = '1', Name = '1', Group = '1', Department = '1', Discipline = '1', Mark = 1, TeacherName = '1'}
